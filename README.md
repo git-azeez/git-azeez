@@ -1,6 +1,4 @@
 
-👋
-
 <h1 align="center">Hi 👋, I'm Azeez</h1>
 <h3 align="center">A passionte Google Cloud Architech/Devops from India</h3>
 
