@@ -2,7 +2,7 @@
 👋
 
 <h1 align="center">Hi 👋, I'm Azeez</h1>
-<h3 align="center">A passionte Google Cloud architech from India</h3>
+<h3 align="center">A passionte Google Cloud Architech/Devops from India</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
